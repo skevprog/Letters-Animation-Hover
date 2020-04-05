@@ -1,2 +1,2 @@
 # Letters-Animation-Hover
-Hover animation using react and css
+Mouse Hover animation using Javascript and Css
